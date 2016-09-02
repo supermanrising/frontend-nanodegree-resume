@@ -94,6 +94,12 @@ var education = {
 			"school": "Treehouse",
 			"dates": 2014,
 			"url": "http://teamtreehouse.com"
+		},
+		{
+			"title": "Full Stack Nanodegree",
+			"school": "Udacity",
+			"dates": 2015,
+			"url": "http://udacity.com"
 		}
 	]
 }
